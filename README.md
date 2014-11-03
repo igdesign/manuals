@@ -4,13 +4,18 @@ iG Procedure Manuals
 Inside Golf
 -----------
 
-### Newsletter
-+ [Ad management](https://github.com/igdesign/manuals/tree/master/iG_Newsletter)
-+ [Ad Module Naming](https://github.com/igdesign/manuals/tree/master/iG_Module_Naming)
++ [Newsletter: Ad management](https://github.com/igdesign/manuals/tree/master/ig-newsletter-ad_management)
++ [Newsletter: Ad Module Naming](https://github.com/igdesign/manuals/tree/master/ig-newsletter-module_naming)
 
 
 WCTA
 ----
 
-### Newsletter
-+ [Ad management](https://github.com/igdesign/manuals/tree/master/WCTA_Newsletter)
++ [Newsletter: Ad Management](https://github.com/igdesign/manuals/tree/master/wcta-newsletter-ad_management)
+
+
+Adserver
+--------
+
++ [Access](https://github.com/igdesign/manuals/tree/master/adserver-access)
++ [Banner Id](https://github.com/igdesign/manuals/tree/master/adserver-get_banner_id)
