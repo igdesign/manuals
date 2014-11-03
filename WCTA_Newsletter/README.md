@@ -3,7 +3,7 @@ WCTA Newsletter: Ad Renewal Procedure
 
 Created: 2014-11-03 - Gregory Daynes
 
-This guide assumes you know how to use revive adserver to get the banner id for a certain client + campaign. Please see [this guide](http://github.com/igdesign/manuals/Adserver/Getting_Banner_ID)
+This guide assumes you know how to use revive adserver to get the banner id for a certain client + campaign. Please see [this guide](https://github.com/igdesign/manuals/tree/master/Adserver/Getting_Banner_ID)
 As well as [naming modules](https://github.com/igdesign/manuals/tree/master/iG_Module_Naming)
 
 ### Information
