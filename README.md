@@ -5,12 +5,12 @@ Inside Golf
 -----------
 
 ### Newsletter
-+ [Ad management](http://github.com/igdesign/manuals/iG_Newsletter)
-+ [Ad Module Naming](http://github.com/igdesign/manuals/iG_Module_naming)
++ [Ad management](https://github.com/igdesign/manuals/tree/master/iG_Newsletter)
++ [Ad Module Naming](https://github.com/igdesign/manuals/tree/master/iG_Module_Naming)
 
 
 WCTA
 ----
 
 ### Newsletter
-+ [Ad management](http://github.com/igdesign/manuals/WCTA_Newsletter)
++ [Ad management](https://github.com/igdesign/manuals/tree/master/WCTA_Newsletter)
