@@ -13,16 +13,16 @@ When the sales team sells and ad, they have the option to place the add on the n
 
 The database that manages this is in Filemaker Pro - iGDP contracts - layout: WCTA newsletter.
 
-![FMPro Layout](figure_1.png)
+![FMPro Layout](figure_1.jpg)
 
 ### Sales Team
 Upon selling a contract for the WCTA newsletter, the sales team need to indicate in the layout that the position has been sold - if they do not know the invoice number, typing the word "sold" in the position is good enough.
-![Sold](figure_1_a.png)
+![Sold](figure_1_a.jpg)
 
 Filemaker Pro - iGDP contracts - layout: WCTA newsletter.
 
 Production will go and update it as necessary [when they have the invoice number]
-![Updated](figure_1_b.png)
+![Updated](figure_1_b.jpg)
 
 This layout, and process allows for the sales people to, at-a-glance, see what spots are available to sell while talking to the client.
 
