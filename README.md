@@ -19,3 +19,4 @@ Adserver
 
 + [Access](https://github.com/igdesign/manuals/tree/master/adserver-access)
 + [Banner Id](https://github.com/igdesign/manuals/tree/master/adserver-get_banner_id)
++ [New/Update Client](https://github.com/igdesign/manuals/tree/master/adserver-client)
