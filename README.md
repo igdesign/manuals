@@ -1,7 +1,8 @@
 iG Procedure Manuals
---------------------
+====================
 
-## Inside Golf
+Inside Golf
+-----------
 
 ### Newsletter
 + [Ad management](http://github.com/igdesign/manuals/iG_Newsletter)
