@@ -22,3 +22,8 @@ Adserver
 + [New/Update Client](https://github.com/igdesign/manuals/tree/master/adserver-client)
 + [New/Update Campaign](https://github.com/igdesign/manuals/tree/master/adserver-campaign)
 + [New/Update Banner](https://github.com/igdesign/manuals/tree/master/adserver-banner)
+
+
+Github
+------
++ [Updating Manual](https://github.com/igdesign/manuals/tree/master/github-update_manuals)
