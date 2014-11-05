@@ -24,6 +24,12 @@ Adserver
 + [New/Update Banner](https://github.com/igdesign/manuals/tree/master/adserver-banner)
 
 
+BCG
+---
+
++ [Add Newsletter To Constant Contact](https://github.com/igdesign/manuals/tree/master/bcg-newsletter-constant_contact)
+
+
 Github
 ------
 + [Updating Manual](https://github.com/igdesign/manuals/tree/master/github-update_manuals)
