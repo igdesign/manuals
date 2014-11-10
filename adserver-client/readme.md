@@ -1,5 +1,5 @@
 Adserver: New Advertiser/Updating Advertiser
-=====================================
+============================================
 
 Created: 2014-11-03 - Gregory Daynes
 
